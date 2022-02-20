@@ -6,7 +6,7 @@ Hitode Matching
 
 CRUDable web app by Python Flask Framework
 
-Matching service between farmers and volunteers
+Matching service between short handed farmers and volunteers
 
 ### Executing codes
 
