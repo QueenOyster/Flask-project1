@@ -11,7 +11,7 @@ Matching service between short handed farmers and volunteers
 ### Executing codes
 
 - clone repository
-- db_model => customize for your pc's setting
+- db_model => customize to your pc's setting
 - mysql => make db, tables before you run
 - venv not used
 - you can delete pycaches
