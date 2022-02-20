@@ -8,6 +8,8 @@ CRUDable web app by Python Flask Framework
 
 Matching service between short handed farmers and volunteers
 
+See more.. https://docs.google.com/presentation/d/1Hfrj91AuEr1y9MCnAJc6o-n58iqgy_Pcm0mw-R7xER4/edit?usp=sharing
+
 ### Executing codes
 
 - clone repository
