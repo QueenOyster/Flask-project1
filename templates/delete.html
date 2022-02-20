@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %} Program Delete {% endblock %}
+{% block body %}
+<br>
+<br>
+<form action="/hitode/program_delete" method="post">
+  <div style="text-align:center">
+    <input type="text" name="program_no" placeholder="program number you want to delete">
+    <button type="submit" class="btn btn-primary">削除</button>
+  </div>
+</form>
+{% endblock %}

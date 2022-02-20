@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %} Program Update {% endblock %}
+{% block body %}
+<br>
+<br>
+<form action="/hitode/program_update" method="post">
+  <div style="text-align:center">
+    <input type="text" name="program_no" placeholder="program number you want to update">
+    <input type="text" name="program_content" placeholder="overwrite program's content">
+    <button type="submit" class="btn btn-primary">更新</button>
+  </div>
+</form>
+{% endblock %}
